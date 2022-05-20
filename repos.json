@@ -87,6 +87,35 @@
         ]
     },
     {
+        "name": "Astro-Panic",
+        "languages": [
+            {
+                "language": "C Header",
+                "files": 3,
+                "lines": 447,
+                "blanks": 41,
+                "comments": 137,
+                "linesOfCode": 269
+            },
+            {
+                "language": "C++",
+                "files": 1,
+                "lines": 539,
+                "blanks": 56,
+                "comments": 107,
+                "linesOfCode": 376
+            },
+            {
+                "language": "Total",
+                "files": 4,
+                "lines": 986,
+                "blanks": 97,
+                "comments": 244,
+                "linesOfCode": 645
+            }
+        ]
+    },
+    {
         "name": "chess.py",
         "languages": [
             {
@@ -120,6 +149,35 @@
                 "blanks": 183,
                 "comments": 17,
                 "linesOfCode": 695
+            }
+        ]
+    },
+    {
+        "name": "chess.py-online",
+        "languages": [
+            {
+                "language": "Python",
+                "files": 11,
+                "lines": 1053,
+                "blanks": 218,
+                "comments": 26,
+                "linesOfCode": 809
+            },
+            {
+                "language": "gitignore",
+                "files": 1,
+                "lines": 1,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 1
+            },
+            {
+                "language": "Total",
+                "files": 12,
+                "lines": 1054,
+                "blanks": 218,
+                "comments": 26,
+                "linesOfCode": 810
             }
         ]
     },
@@ -203,6 +261,59 @@
         ]
     },
     {
+        "name": "MassimoSandre.github.io",
+        "languages": [
+            {
+                "language": "CSS",
+                "files": 2,
+                "lines": 558,
+                "blanks": 87,
+                "comments": 24,
+                "linesOfCode": 447
+            },
+            {
+                "language": "HTML",
+                "files": 1,
+                "lines": 25,
+                "blanks": 3,
+                "comments": 0,
+                "linesOfCode": 22
+            },
+            {
+                "language": "JavaScript",
+                "files": 1,
+                "lines": 346,
+                "blanks": 28,
+                "comments": 111,
+                "linesOfCode": 207
+            },
+            {
+                "language": "Markdown",
+                "files": 1,
+                "lines": 37,
+                "blanks": 15,
+                "comments": 0,
+                "linesOfCode": 22
+            },
+            {
+                "language": "YAML",
+                "files": 1,
+                "lines": 1,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 1
+            },
+            {
+                "language": "Total",
+                "files": 6,
+                "lines": 967,
+                "blanks": 133,
+                "comments": 135,
+                "linesOfCode": 699
+            }
+        ]
+    },
+    {
         "name": "maze_generator",
         "languages": [
             {
@@ -240,6 +351,43 @@
         ]
     },
     {
+        "name": "nonogram",
+        "languages": [
+            {
+                "language": "CSS",
+                "files": 2,
+                "lines": 558,
+                "blanks": 87,
+                "comments": 24,
+                "linesOfCode": 447
+            },
+            {
+                "language": "HTML",
+                "files": 1,
+                "lines": 25,
+                "blanks": 3,
+                "comments": 0,
+                "linesOfCode": 22
+            },
+            {
+                "language": "JavaScript",
+                "files": 1,
+                "lines": 346,
+                "blanks": 28,
+                "comments": 111,
+                "linesOfCode": 207
+            },
+            {
+                "language": "Total",
+                "files": 4,
+                "lines": 929,
+                "blanks": 118,
+                "comments": 135,
+                "linesOfCode": 676
+            }
+        ]
+    },
+    {
         "name": "peg_solitaire",
         "languages": [
             {
@@ -265,6 +413,35 @@
                 "blanks": 58,
                 "comments": 0,
                 "linesOfCode": 241
+            }
+        ]
+    },
+    {
+        "name": "repos_loc",
+        "languages": [
+            {
+                "language": "JSON",
+                "files": 2,
+                "lines": 390,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 390
+            },
+            {
+                "language": "Python",
+                "files": 1,
+                "lines": 74,
+                "blanks": 17,
+                "comments": 1,
+                "linesOfCode": 56
+            },
+            {
+                "language": "Total",
+                "files": 3,
+                "lines": 464,
+                "blanks": 17,
+                "comments": 1,
+                "linesOfCode": 446
             }
         ]
     },
