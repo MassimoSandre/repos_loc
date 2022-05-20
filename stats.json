@@ -1,0 +1,45 @@
+{
+    "repos_count": 11,
+    "languages": [
+        {
+            "language": "Python",
+            "files": 40,
+            "lines": 4543,
+            "blanks": 696,
+            "comments": 378,
+            "linesOfCode": 3469
+        },
+        {
+            "language": "gitignore",
+            "files": 10,
+            "lines": 14,
+            "blanks": 0,
+            "comments": 0,
+            "linesOfCode": 14
+        },
+        {
+            "language": "Total",
+            "files": 56,
+            "lines": 4596,
+            "blanks": 704,
+            "comments": 378,
+            "linesOfCode": 3514
+        },
+        {
+            "language": "Markdown",
+            "files": 4,
+            "lines": 37,
+            "blanks": 8,
+            "comments": 0,
+            "linesOfCode": 29
+        },
+        {
+            "language": "JSON",
+            "files": 2,
+            "lines": 2,
+            "blanks": 0,
+            "comments": 0,
+            "linesOfCode": 2
+        }
+    ]
+}
