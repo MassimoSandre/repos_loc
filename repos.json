@@ -87,6 +87,64 @@
         ]
     },
     {
+        "name": "Arduino-projects",
+        "languages": [
+            {
+                "language": "C Header",
+                "files": 36,
+                "lines": 3741,
+                "blanks": 92,
+                "comments": 1,
+                "linesOfCode": 3648
+            },
+            {
+                "language": "gitignore",
+                "files": 1,
+                "lines": 1,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 1
+            },
+            {
+                "language": "Total",
+                "files": 37,
+                "lines": 3742,
+                "blanks": 92,
+                "comments": 1,
+                "linesOfCode": 3649
+            }
+        ]
+    },
+    {
+        "name": "Assembly-projects",
+        "languages": [
+            {
+                "language": "Assembly",
+                "files": 15,
+                "lines": 1627,
+                "blanks": 299,
+                "comments": 56,
+                "linesOfCode": 1272
+            },
+            {
+                "language": "gitignore",
+                "files": 1,
+                "lines": 3,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 3
+            },
+            {
+                "language": "Total",
+                "files": 16,
+                "lines": 1630,
+                "blanks": 299,
+                "comments": 56,
+                "linesOfCode": 1275
+            }
+        ]
+    },
+    {
         "name": "Astro-Panic",
         "languages": [
             {
@@ -182,6 +240,199 @@
         ]
     },
     {
+        "name": "Codeforces",
+        "languages": [
+            {
+                "language": "C++",
+                "files": 36,
+                "lines": 1160,
+                "blanks": 191,
+                "comments": 16,
+                "linesOfCode": 953
+            },
+            {
+                "language": "gitignore",
+                "files": 1,
+                "lines": 3,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 3
+            },
+            {
+                "language": "Total",
+                "files": 37,
+                "lines": 1163,
+                "blanks": 191,
+                "comments": 16,
+                "linesOfCode": 956
+            }
+        ]
+    },
+    {
+        "name": "Cpp-projects",
+        "languages": [
+            {
+                "language": "C++",
+                "files": 148,
+                "lines": 8417,
+                "blanks": 1040,
+                "comments": 435,
+                "linesOfCode": 6942
+            },
+            {
+                "language": "C Header",
+                "files": 100,
+                "lines": 40168,
+                "blanks": 3869,
+                "comments": 12117,
+                "linesOfCode": 24182
+            },
+            {
+                "language": "Plain Text",
+                "files": 24,
+                "lines": 323,
+                "blanks": 54,
+                "comments": 0,
+                "linesOfCode": 269
+            },
+            {
+                "language": "C",
+                "files": 4,
+                "lines": 75,
+                "blanks": 9,
+                "comments": 4,
+                "linesOfCode": 62
+            },
+            {
+                "language": "gitignore",
+                "files": 1,
+                "lines": 4,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 4
+            },
+            {
+                "language": "sed",
+                "files": 1,
+                "lines": 45,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 45
+            },
+            {
+                "language": "Total",
+                "files": 278,
+                "lines": 49032,
+                "blanks": 4972,
+                "comments": 12556,
+                "linesOfCode": 31504
+            }
+        ]
+    },
+    {
+        "name": "crivello",
+        "languages": [
+            {
+                "language": "CSS",
+                "files": 1,
+                "lines": 62,
+                "blanks": 7,
+                "comments": 0,
+                "linesOfCode": 55
+            },
+            {
+                "language": "HTML",
+                "files": 1,
+                "lines": 17,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 17
+            },
+            {
+                "language": "JavaScript",
+                "files": 1,
+                "lines": 100,
+                "blanks": 6,
+                "comments": 34,
+                "linesOfCode": 60
+            },
+            {
+                "language": "Total",
+                "files": 3,
+                "lines": 179,
+                "blanks": 13,
+                "comments": 34,
+                "linesOfCode": 132
+            }
+        ]
+    },
+    {
+        "name": "Cs-projects",
+        "languages": [
+            {
+                "language": "C#",
+                "files": 2,
+                "lines": 75,
+                "blanks": 12,
+                "comments": 17,
+                "linesOfCode": 46
+            },
+            {
+                "language": "MSBuild",
+                "files": 1,
+                "lines": 53,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 53
+            },
+            {
+                "language": "gitignore",
+                "files": 1,
+                "lines": 3,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 3
+            },
+            {
+                "language": "Total",
+                "files": 4,
+                "lines": 131,
+                "blanks": 12,
+                "comments": 17,
+                "linesOfCode": 102
+            }
+        ]
+    },
+    {
+        "name": "GoogleCodeJam",
+        "languages": [
+            {
+                "language": "C++",
+                "files": 1,
+                "lines": 22,
+                "blanks": 3,
+                "comments": 0,
+                "linesOfCode": 19
+            },
+            {
+                "language": "gitignore",
+                "files": 1,
+                "lines": 3,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 3
+            },
+            {
+                "language": "Total",
+                "files": 2,
+                "lines": 25,
+                "blanks": 3,
+                "comments": 0,
+                "linesOfCode": 22
+            }
+        ]
+    },
+    {
         "name": "graph_editor",
         "languages": [
             {
@@ -236,6 +487,170 @@
                 "blanks": 47,
                 "comments": 0,
                 "linesOfCode": 186
+            }
+        ]
+    },
+    {
+        "name": "Java-projects",
+        "languages": [
+            {
+                "language": "Java",
+                "files": 1,
+                "lines": 64,
+                "blanks": 14,
+                "comments": 14,
+                "linesOfCode": 36
+            },
+            {
+                "language": "JavaServer Pages",
+                "files": 1,
+                "lines": 21,
+                "blanks": 3,
+                "comments": 0,
+                "linesOfCode": 18
+            },
+            {
+                "language": "gitignore",
+                "files": 1,
+                "lines": 5,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 5
+            },
+            {
+                "language": "Total",
+                "files": 3,
+                "lines": 90,
+                "blanks": 17,
+                "comments": 14,
+                "linesOfCode": 59
+            }
+        ]
+    },
+    {
+        "name": "JavaDocumentation",
+        "languages": [
+            {
+                "language": "Java",
+                "files": 6,
+                "lines": 132,
+                "blanks": 13,
+                "comments": 69,
+                "linesOfCode": 50
+            },
+            {
+                "language": "Gradle",
+                "files": 2,
+                "lines": 52,
+                "blanks": 9,
+                "comments": 9,
+                "linesOfCode": 34
+            },
+            {
+                "language": "Batch",
+                "files": 1,
+                "lines": 103,
+                "blanks": 25,
+                "comments": 0,
+                "linesOfCode": 78
+            },
+            {
+                "language": "Markdown",
+                "files": 1,
+                "lines": 1,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 1
+            },
+            {
+                "language": "Properties File",
+                "files": 1,
+                "lines": 5,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 5
+            },
+            {
+                "language": "Shell",
+                "files": 1,
+                "lines": 183,
+                "blanks": 19,
+                "comments": 36,
+                "linesOfCode": 128
+            },
+            {
+                "language": "gitignore",
+                "files": 1,
+                "lines": 5,
+                "blanks": 1,
+                "comments": 2,
+                "linesOfCode": 2
+            },
+            {
+                "language": "Total",
+                "files": 13,
+                "lines": 481,
+                "blanks": 67,
+                "comments": 116,
+                "linesOfCode": 298
+            }
+        ]
+    },
+    {
+        "name": "ja_verb_conjugator",
+        "languages": [
+            {
+                "language": "Python",
+                "files": 2,
+                "lines": 35,
+                "blanks": 13,
+                "comments": 0,
+                "linesOfCode": 22
+            },
+            {
+                "language": "gitignore",
+                "files": 1,
+                "lines": 2,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 2
+            },
+            {
+                "language": "Total",
+                "files": 3,
+                "lines": 37,
+                "blanks": 13,
+                "comments": 0,
+                "linesOfCode": 24
+            }
+        ]
+    },
+    {
+        "name": "jisho_retriever",
+        "languages": [
+            {
+                "language": "Python",
+                "files": 2,
+                "lines": 341,
+                "blanks": 41,
+                "comments": 12,
+                "linesOfCode": 288
+            },
+            {
+                "language": "gitignore",
+                "files": 1,
+                "lines": 3,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 3
+            },
+            {
+                "language": "Total",
+                "files": 3,
+                "lines": 344,
+                "blanks": 41,
+                "comments": 12,
+                "linesOfCode": 291
             }
         ]
     },
@@ -351,6 +766,64 @@
         ]
     },
     {
+        "name": "Minesweeper.py",
+        "languages": [
+            {
+                "language": "Python",
+                "files": 2,
+                "lines": 160,
+                "blanks": 36,
+                "comments": 0,
+                "linesOfCode": 124
+            },
+            {
+                "language": "gitignore",
+                "files": 1,
+                "lines": 1,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 1
+            },
+            {
+                "language": "Total",
+                "files": 3,
+                "lines": 161,
+                "blanks": 36,
+                "comments": 0,
+                "linesOfCode": 125
+            }
+        ]
+    },
+    {
+        "name": "music_editor",
+        "languages": [
+            {
+                "language": "Python",
+                "files": 3,
+                "lines": 233,
+                "blanks": 34,
+                "comments": 0,
+                "linesOfCode": 199
+            },
+            {
+                "language": "gitignore",
+                "files": 1,
+                "lines": 1,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 1
+            },
+            {
+                "language": "Total",
+                "files": 4,
+                "lines": 234,
+                "blanks": 34,
+                "comments": 0,
+                "linesOfCode": 200
+            }
+        ]
+    },
+    {
         "name": "nonogram",
         "languages": [
             {
@@ -388,6 +861,51 @@
         ]
     },
     {
+        "name": "OII100",
+        "languages": [
+            {
+                "language": "C++",
+                "files": 117,
+                "lines": 4256,
+                "blanks": 646,
+                "comments": 144,
+                "linesOfCode": 3466
+            },
+            {
+                "language": "Markdown",
+                "files": 1,
+                "lines": 1,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 1
+            },
+            {
+                "language": "Plain Text",
+                "files": 1,
+                "lines": 0,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 0
+            },
+            {
+                "language": "gitignore",
+                "files": 1,
+                "lines": 0,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 0
+            },
+            {
+                "language": "Total",
+                "files": 120,
+                "lines": 4257,
+                "blanks": 646,
+                "comments": 144,
+                "linesOfCode": 3467
+            }
+        ]
+    },
+    {
         "name": "peg_solitaire",
         "languages": [
             {
@@ -417,15 +935,158 @@
         ]
     },
     {
+        "name": "Processing-projects",
+        "languages": [
+            {
+                "language": "Processing",
+                "files": 13,
+                "lines": 1545,
+                "blanks": 195,
+                "comments": 75,
+                "linesOfCode": 1275
+            },
+            {
+                "language": "gitignore",
+                "files": 1,
+                "lines": 3,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 3
+            },
+            {
+                "language": "Total",
+                "files": 14,
+                "lines": 1548,
+                "blanks": 195,
+                "comments": 75,
+                "linesOfCode": 1278
+            }
+        ]
+    },
+    {
+        "name": "Pygame_ext",
+        "languages": [
+            {
+                "language": "Markdown",
+                "files": 1,
+                "lines": 2,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 2
+            },
+            {
+                "language": "Python",
+                "files": 1,
+                "lines": 213,
+                "blanks": 44,
+                "comments": 0,
+                "linesOfCode": 169
+            },
+            {
+                "language": "gitignore",
+                "files": 1,
+                "lines": 4,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 4
+            },
+            {
+                "language": "Total",
+                "files": 3,
+                "lines": 219,
+                "blanks": 44,
+                "comments": 0,
+                "linesOfCode": 175
+            }
+        ]
+    },
+    {
+        "name": "Python-projects",
+        "languages": [
+            {
+                "language": "Python",
+                "files": 87,
+                "lines": 5749,
+                "blanks": 1333,
+                "comments": 260,
+                "linesOfCode": 4156
+            },
+            {
+                "language": "JSON",
+                "files": 7,
+                "lines": 8502,
+                "blanks": 1,
+                "comments": 0,
+                "linesOfCode": 8501
+            },
+            {
+                "language": "Plain Text",
+                "files": 7,
+                "lines": 1078,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 1078
+            },
+            {
+                "language": "CSV",
+                "files": 3,
+                "lines": 361,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 361
+            },
+            {
+                "language": "HTML",
+                "files": 2,
+                "lines": 2878,
+                "blanks": 292,
+                "comments": 0,
+                "linesOfCode": 2586
+            },
+            {
+                "language": "Batch",
+                "files": 1,
+                "lines": 1,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 1
+            },
+            {
+                "language": "XML",
+                "files": 1,
+                "lines": 7277,
+                "blanks": 284,
+                "comments": 4,
+                "linesOfCode": 6989
+            },
+            {
+                "language": "gitignore",
+                "files": 1,
+                "lines": 5,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 5
+            },
+            {
+                "language": "Total",
+                "files": 109,
+                "lines": 25851,
+                "blanks": 1910,
+                "comments": 264,
+                "linesOfCode": 23677
+            }
+        ]
+    },
+    {
         "name": "repos_loc",
         "languages": [
             {
                 "language": "JSON",
                 "files": 2,
-                "lines": 390,
+                "lines": 615,
                 "blanks": 0,
                 "comments": 0,
-                "linesOfCode": 390
+                "linesOfCode": 615
             },
             {
                 "language": "Python",
@@ -438,10 +1099,39 @@
             {
                 "language": "Total",
                 "files": 3,
-                "lines": 464,
+                "lines": 689,
                 "blanks": 17,
                 "comments": 1,
-                "linesOfCode": 446
+                "linesOfCode": 671
+            }
+        ]
+    },
+    {
+        "name": "Rust-projects",
+        "languages": [
+            {
+                "language": "Rust",
+                "files": 1,
+                "lines": 3,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 3
+            },
+            {
+                "language": "gitignore",
+                "files": 1,
+                "lines": 4,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 4
+            },
+            {
+                "language": "Total",
+                "files": 2,
+                "lines": 7,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 7
             }
         ]
     },
@@ -471,6 +1161,109 @@
                 "blanks": 48,
                 "comments": 145,
                 "linesOfCode": 482
+            }
+        ]
+    },
+    {
+        "name": "Tirocini-curriculari",
+        "languages": [
+            {
+                "language": "PHP",
+                "files": 17,
+                "lines": 5312,
+                "blanks": 878,
+                "comments": 407,
+                "linesOfCode": 4027
+            },
+            {
+                "language": "CSS",
+                "files": 1,
+                "lines": 333,
+                "blanks": 66,
+                "comments": 2,
+                "linesOfCode": 265
+            },
+            {
+                "language": "LaTeX",
+                "files": 1,
+                "lines": 1879,
+                "blanks": 221,
+                "comments": 0,
+                "linesOfCode": 1658
+            },
+            {
+                "language": "Markdown",
+                "files": 1,
+                "lines": 3,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 3
+            },
+            {
+                "language": "Total",
+                "files": 20,
+                "lines": 7527,
+                "blanks": 1165,
+                "comments": 409,
+                "linesOfCode": 5953
+            }
+        ]
+    },
+    {
+        "name": "verificaUDP",
+        "languages": [
+            {
+                "language": "C++",
+                "files": 4,
+                "lines": 555,
+                "blanks": 106,
+                "comments": 87,
+                "linesOfCode": 362
+            },
+            {
+                "language": "Total",
+                "files": 4,
+                "lines": 555,
+                "blanks": 106,
+                "comments": 87,
+                "linesOfCode": 362
+            }
+        ]
+    },
+    {
+        "name": "website",
+        "languages": [
+            {
+                "language": "HTML",
+                "files": 1,
+                "lines": 1,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 1
+            },
+            {
+                "language": "JSON",
+                "files": 1,
+                "lines": 10,
+                "blanks": 0,
+                "comments": 0,
+                "linesOfCode": 10
+            },
+            {
+                "language": "gitignore",
+                "files": 1,
+                "lines": 66,
+                "blanks": 18,
+                "comments": 22,
+                "linesOfCode": 26
+            },
+            {
+                "language": "Total",
+                "files": 3,
+                "lines": 77,
+                "blanks": 18,
+                "comments": 22,
+                "linesOfCode": 37
             }
         ]
     },

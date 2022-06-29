@@ -5,22 +5,30 @@ import json
 USER = "MassimoSandre"
 AVOID_FORKS = True
 
+print("Getting repos info, it may take a while...")
 
-
-gh_data = requests.get(f"https://api.github.com/users/{USER}/repos")
+gh_data = requests.get(f"https://api.github.com/users/{USER}/repos?page=1")
 gh_data = gh_data.json()
 
-print("Getting repos info, it may take a while...")
+
 repos_num = 0
-for repo in gh_data:
-    if not (AVOID_FORKS and repo["fork"]):
-        repos_num +=1
+repos = []
+page = 2
+while len(gh_data) > 0:
+    for repo in gh_data:
+        if not (AVOID_FORKS and repo["fork"]):
+            repos.append(repo["name"])
+            repos_num +=1
+    gh_data = requests.get(f"https://api.github.com/users/{USER}/repos?page={page}")
+    page+=1
+    gh_data = gh_data.json()
+
+print(f"Ready to download {repos_num} repositories")
 
 output = []
 i = 1
-for repo in gh_data:
+for repo_name in repos:
     if not (AVOID_FORKS and repo["fork"]):
-        repo_name = repo["name"]
         d = {"name": repo_name, "languages": None}
         loc_data = requests.get(f"https://api.codetabs.com/v1/loc?github={USER}/{repo_name}")
         d["languages"] = loc_data.json()
